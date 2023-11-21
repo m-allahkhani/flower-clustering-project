@@ -1,1 +1,1 @@
-This is an unsupervised learning project.
+This is an unsupervised machine learning project.In this project we cluster pixels of flower images then we extract features from flowers.We use these feature to classify them and finaly we calculate its accuracy and confusion matrix.
